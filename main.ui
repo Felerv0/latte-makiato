@@ -44,7 +44,7 @@
       <widget class="QPushButton" name="btn">
        <property name="maximumSize">
         <size>
-         <width>200</width>
+         <width>250</width>
          <height>16777215</height>
         </size>
        </property>
@@ -55,6 +55,24 @@
        </property>
        <property name="text">
         <string>Загрузить</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QPushButton" name="btn_edit">
+       <property name="maximumSize">
+        <size>
+         <width>250</width>
+         <height>16777215</height>
+        </size>
+       </property>
+       <property name="font">
+        <font>
+         <pointsize>20</pointsize>
+        </font>
+       </property>
+       <property name="text">
+        <string>Редактирование</string>
        </property>
       </widget>
      </item>
